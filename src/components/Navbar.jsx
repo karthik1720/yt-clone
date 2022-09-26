@@ -4,6 +4,7 @@ import SearchOutlinedIcon from "@mui/icons-material/SearchOutlined";
 import AccountCircleOutlinedIcon from "@mui/icons-material/AccountCircleOutlined";
 const Container = styled.div`
   position: sticky;
+  width: 100%;
   top: 0;
   background-color: ${({ theme }) => theme.bgLighter};
   height: 56px;
